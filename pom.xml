@@ -239,7 +239,7 @@
 			<dependency>
 				<groupId>org.hibernate</groupId>
 				<artifactId>hibernate-validator</artifactId>
-				<version>5.4.3.Final</version>
+				<version>6.0.23.Final</version>
 			</dependency>
 			<dependency>
 				<groupId>org.hibernate</groupId>
@@ -356,7 +356,7 @@
 			<dependency>
 				<groupId>com.thoughtworks.xstream</groupId>
 				<artifactId>xstream</artifactId>
-				<version>1.4.17</version>
+				<version>1.4.20</version>
 			</dependency>
 			<dependency>
 				<groupId>javax.mail</groupId>
@@ -765,7 +765,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -784,7 +784,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -805,7 +805,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
@@ -1209,7 +1209,7 @@
 		<springVersion>5.3.30</springVersion>
 		<hibernateVersion>5.6.15.Final</hibernateVersion>
 		<hibernateSearchVersion>5.11.12.Final</hibernateSearchVersion>
-		<luceneVersion>5.5.5</luceneVersion>
+		<luceneVersion>8.5.0</luceneVersion>
 		<aspectjVersion>1.9.21.1</aspectjVersion>
 		<jacksonVersion>2.16.2</jacksonVersion>
 		<junitVersion>5.10.2</junitVersion>
@@ -1220,7 +1220,7 @@
 		<log4jVersion>2.22.1</log4jVersion>
 		<owaspCsrfGuardVersion>4.2.1</owaspCsrfGuardVersion>
 
-		<customArgLineForTesting />
+		<customArgLineForTesting/>
 
 		<sonar.host.url>https://sonar.openmrs.org</sonar.host.url>		
 		<sonar.issuesReport.html.enable>true</sonar.issuesReport.html.enable>
