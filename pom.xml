@@ -177,7 +177,7 @@
 			<dependency>
 				<groupId>org.apache.commons</groupId>
 				<artifactId>commons-lang3</artifactId>
-				<version>3.14.0</version>
+				<version>3.18.0</version>
 			</dependency>
 			<dependency>
 				<groupId>org.springframework</groupId>
@@ -765,7 +765,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -784,7 +784,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -805,7 +805,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
@@ -1220,7 +1220,7 @@
 		<log4jVersion>2.22.1</log4jVersion>
 		<owaspCsrfGuardVersion>4.2.1</owaspCsrfGuardVersion>
 
-		<customArgLineForTesting />
+		<customArgLineForTesting/>
 
 		<sonar.host.url>https://sonar.openmrs.org</sonar.host.url>		
 		<sonar.issuesReport.html.enable>true</sonar.issuesReport.html.enable>
